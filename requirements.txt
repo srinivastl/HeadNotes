@@ -1,0 +1,7 @@
+pandas
+requests
+PyMuPDF
+pdfplumber
+PyPDF2
+re
+transformers
